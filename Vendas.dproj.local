@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/02 16:36:14.000.971,=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 16:37:52.000.787,=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/02 16:39:01.000.636,E:\Projetos\teste\WK\untBanco.pas=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/02 16:48:22.000.697,E:\Projetos\teste\WK\UFormPadrao.dfm=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/09/02 16:48:22.000.697,E:\Projetos\teste\WK\UFormPadrao.pas=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 17:15:42.000.845,=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 17:15:46.000.726,E:\Projetos\teste\WK\untPessoa.pas=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 17:36:33.000.082,=E:\Projetos\teste\WK\untPadrao.pas</Transaction>
+    <Transaction>2022/09/02 17:36:44.000.334,=E:\Projetos\teste\WK\untExecutaSQL.pas</Transaction>
+    <Transaction>2022/09/02 17:39:45.000.614,=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 17:39:56.000.780,E:\Projetos\teste\WK\UntPedidosDadosGerais.pas=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 17:41:57.000.222,E:\Projetos\teste\WK\Vendas.dproj=E:\Users\Jonas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/09/02 18:51:19.000.027,=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 18:51:40.000.763,E:\Projetos\teste\WK\untPedidosProdutos.pas=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 18:58:50.000.062,=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 18:59:05.000.342,E:\Projetos\teste\WK\untProdutos.pas=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 19:37:43.000.009,=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 19:37:52.000.975,=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 19:38:05.000.076,E:\Projetos\teste\WK\UFormCadastroClientes.pas=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 19:38:05.000.076,E:\Projetos\teste\WK\UFormCadastroClientes.dfm=E:\Projetos\teste\WK\Unit1.dfm</Transaction>
+    <Transaction>2022/09/02 19:44:30.000.018,=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 19:45:11.000.331,E:\Projetos\teste\WK\untDM.pas=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 19:45:11.000.331,E:\Projetos\teste\WK\untDM.dfm=E:\Projetos\teste\WK\Unit1.dfm</Transaction>
+    <Transaction>2022/09/02 20:14:49.000.033,=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 20:15:01.000.557,E:\Projetos\teste\WK\UFormPrincipal.pas=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 20:15:01.000.557,E:\Projetos\teste\WK\UFormPrincipal.dfm=E:\Projetos\teste\WK\Unit1.dfm</Transaction>
+    <Transaction>2022/09/04 11:23:15.595,=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 11:23:26.428,E:\Projetos\teste\WK\UFormProduto.dfm=E:\Projetos\teste\WK\Unit1.dfm</Transaction>
+    <Transaction>2022/09/04 11:23:26.428,E:\Projetos\teste\WK\UFormProduto.pas=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 15:27:37.844,=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 15:27:55.813,E:\Projetos\teste\WK\UFormBuscaPedidos.pas=E:\Projetos\teste\WK\Unit1.pas</Transaction>
+    <Transaction>2022/09/04 15:27:55.813,E:\Projetos\teste\WK\UFormBuscaPedidos.dfm=E:\Projetos\teste\WK\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

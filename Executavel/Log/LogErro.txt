@@ -1,0 +1,7 @@
+04/09/2022 09:52:14 - Erro: [FireDAC][Phys][MySQL]-335. Parameter [ID] data type is unknown. Hint: specify TFDParam.DataType or assign TFDParam value before Prepare/Execute call
+04/09/2022 09:53:39 - Erro: [FireDAC][Phys][MySQL]-335. Parameter [ID] data type is unknown. Hint: specify TFDParam.DataType or assign TFDParam value before Prepare/Execute call
+04/09/2022 09:56:52 - Erro: [FireDAC][Phys][MySQL]-335. Parameter [ID] data type is unknown. Hint: specify TFDParam.DataType or assign TFDParam value before Prepare/Execute call
+04/09/2022 09:57:38 - Erro: [FireDAC][Phys][MySQL]-335. Parameter [ID] data type is unknown. Hint: specify TFDParam.DataType or assign TFDParam value before Prepare/Execute call
+04/09/2022 10:59:07 - Erro: [FireDAC][Phys][MySQL] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM CLIENTES SET NOME = ?, CIDADE = ?, UF = ? WHERE ID = ?' at line 1
+04/09/2022 15:49:56 - Erro: [FireDAC][Phys][MySQL] Unknown column 'PD.ID' in 'where clause'
+04/09/2022 15:50:06 - Erro: [FireDAC][Phys][MySQL] Unknown column 'PD.ID' in 'where clause'
